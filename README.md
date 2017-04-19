@@ -1,5 +1,7 @@
 
+
  - to install:
+npm config set cache-min 9999999
 npm i
 
 - to start DEV
